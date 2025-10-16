@@ -18,14 +18,12 @@ Here are some ideas to get you started:
 
 백엔드와 데이터 중심 웹서비스 개발에 관심이 많은 개발자입니다.  
 사용자의 행동 데이터를 분석해 더 나은 경험을 설계하는 데 집중하고 있습니다.  
-현재는 Spring Boot, JSP, Oracle DB를 기반으로 한 **레시피 추천 플랫폼**과  
-**PC방 시스템** 같은 프로젝트를 개발하고 있습니다.
 
 ---
 
 ## 💻 Tech Stack
 
-### 🧩 Frontend
+#### 🧩 Frontend
 <p align="left">
   <a href="https://developer.mozilla.org/ko/docs/Web/HTML" target="_blank">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -38,7 +36,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-### ⚙️ Backend
+#### ⚙️ Backend
 <p align="left">
   <a href="https://www.java.com/" target="_blank">
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -51,7 +49,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-### 🗄️ Database / Search
+#### 🗄️ Database / Search
 <p align="left">
   <a href="https://www.oracle.com/kr/database/" target="_blank">
     <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
@@ -64,7 +62,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-### 🧰 Tools & Environment
+#### 🧰 Tools & Environment
 <p align="left">
   <a href="https://www.jetbrains.com/idea/" target="_blank">
     <img src="https://img.shields.io/badge/IntelliJIDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
@@ -92,13 +90,4 @@ Here are some ideas to get you started:
 
 ---
 
-### GreenPC (PC방 장비 관리 시스템)
-> PC방 장비를 조회·관리할 수 있는 웹사이트  
-- Stack: Spring Boot, JSP, MySQL  
-- [프로젝트 보기]
-
----
-
-
 🔗 GitHub: 
-🔗 : 
