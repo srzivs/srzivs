@@ -86,8 +86,8 @@ Here are some ideas to get you started:
 > 사용자의 관심과 검색 로그를 기반으로 개인화된 피드를 제공하는 웹서비스  
 - Stack: Spring Boot, JSP, Oracle XE, Elasticsearch, Python  
 - 주요 기능: 레시피 CRUD, 댓글·좋아요·신고, 관리자 대시보드, 추천엔진  
-- [프로젝트 보기]
+- [프로젝트 보기] https://github.com/srzivs/LU-meet
 
 ---
 
-🔗 GitHub: 
+🔗 GitHub: https://github.com/srzivs/
